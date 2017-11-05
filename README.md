@@ -1,4 +1,4 @@
-# BoomBoomKyuun
+# Boom Boom Kyuun
 
 Get your fire-breathing goat through that minefield, pronto! 💥
 
